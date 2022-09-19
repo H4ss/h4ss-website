@@ -28,7 +28,7 @@ const Page = () => {
         <Layout>
             <Container>
                 <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} align="center">
-                    Hello, I'm a french full stack developper!
+                    Hello, I&apos;m a french full stack developper!
                 </Box>
 
                 <Box display={{ md: 'flex' }}>
@@ -59,11 +59,11 @@ const Page = () => {
                         Myself
                     </Heading>
                     <Paragraph>
-                        I'm Hassan, a computer science student, a learner and a traveler. I'm going over every aspect of
+                        I&apos;m Hassan, a computer science student, a learner and a traveler. I&apos;m going over every aspect of
                         my domain with a never ending curiosity, and a passion for learning and creating.
-                        I believe that we learn the most through practicing, and that's why I'm always trying
-                        to create new projects, and to learn new technologies. I'm especially interested in backend
-                        development and cybersecurity. Currently I'm working on a series of projects that I will
+                        I believe that we learn the most through practicing, and that&apos;s why I&apos;m always trying
+                        to create new projects, and to learn new technologies. I&apos;m especially interested in backend
+                        development and cybersecurity. Currently I&apos;m working on a series of projects that I will
                         be showing on this website.
                     </Paragraph>
                     <Box align="center" my={4}>
@@ -98,11 +98,11 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear> [SOON] 2023 </BioYear>
-                        Completing the 1st year of Calabria university Master's cycle.
+                        Completing the 1st year of Calabria university Master&apos;s cycle.
                     </BioSection>
                     <BioSection>
                         <BioYear> [SOON] 2024 </BioYear>
-                        Completing the Epitech Master's cycle.
+                        Completing the Epitech Master&apos;s cycle.
                     </BioSection>
                 </Section>
 

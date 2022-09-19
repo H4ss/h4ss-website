@@ -16,7 +16,7 @@ const NotFound = () => {
                     Not Found
                 </Heading>
             </Box>
-            <Text> Oops ! the page you're looking for was not found. </Text>
+            <Text> Oops ! the page you&apos;re looking for was not found. </Text>
             <Divider my={6} />
 
             <Box my={6} align="center">
