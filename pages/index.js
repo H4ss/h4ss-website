@@ -37,7 +37,7 @@ const Page = () => {
                             Hassan Zabatt
                         </Heading>
                         <p>
-                            IT enthusiast ( Developper / Security Analyst )
+                            Computer scientist
                         </p>
                     </Box>
                     <Box flexShrink={0} mt={{ base: 4, md: 0 }} ml={{ md: 6 }} align='center'>
