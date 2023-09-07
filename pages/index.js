@@ -97,8 +97,8 @@ const Page = () => {
                         Completed the Epitech Bachelor cycle after 3 years.
                     </BioSection>
                     <BioSection>
-                        <BioYear> [SOON] 2023 </BioYear>
-                        Completing the 1st year of Calabria university Master&apos;s cycle.
+                        <BioYear> 2023 </BioYear>
+                        Completed the 1st year of Calabria university Master&apos;s cycle.
                     </BioSection>
                     <BioSection>
                         <BioYear> [SOON] 2024 </BioYear>
